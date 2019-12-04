@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/AnimalCrossing.csproj": {}
+    "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\AnimalCrossing.csproj": {}
   },
   "projects": {
-    "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/AnimalCrossing.csproj": {
+    "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\AnimalCrossing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/AnimalCrossing.csproj",
+        "projectUniqueName": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\AnimalCrossing.csproj",
         "projectName": "AnimalCrossing",
-        "projectPath": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/AnimalCrossing.csproj",
-        "packagesPath": "/Users/killercomp2.0/.nuget/packages/",
-        "outputPath": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/obj/",
+        "projectPath": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\AnimalCrossing.csproj",
+        "packagesPath": "C:\\Users\\Niklas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/killercomp2.0/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Niklas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

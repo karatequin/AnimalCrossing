@@ -10851,31 +10851,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/killercomp2.0/.nuget/packages/": {}
+    "C:\\Users\\Niklas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossingTests/AnimalCrossingTests.csproj",
+      "projectUniqueName": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossingTests\\AnimalCrossingTests.csproj",
       "projectName": "AnimalCrossingTests",
-      "projectPath": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossingTests/AnimalCrossingTests.csproj",
-      "packagesPath": "/Users/killercomp2.0/.nuget/packages/",
-      "outputPath": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossingTests/obj/",
+      "projectPath": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossingTests\\AnimalCrossingTests.csproj",
+      "packagesPath": "C:\\Users\\Niklas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossingTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/killercomp2.0/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Niklas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/AnimalCrossing.csproj": {
-              "projectPath": "/Users/killercomp2.0/Projects/AnimalCrossing/AnimalCrossing/AnimalCrossing.csproj"
+            "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\AnimalCrossing.csproj": {
+              "projectPath": "C:\\Users\\Niklas\\Documents\\GitHub\\AnimalCrossing\\AnimalCrossing\\AnimalCrossing.csproj"
             }
           }
         }
@@ -10921,11 +10923,14 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
