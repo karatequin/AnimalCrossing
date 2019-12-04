@@ -115,5 +115,22 @@ namespace AnimalCrossing.Controllers
 
             return View("ShowCats", cats.ToList());
         }
+
+        [HttpGet]
+        public IActionResult DeleteCat(int id)
+        {
+            this.IAnimalRepo.Delete(id);
+            
+
+            return View("showCats", this.IAnimalRepo.Get());
+        }
+
+        /*[HttpPost]
+        public IActionResult DeleteCat(int id)
+        {
+            
+            
+            return View("showCats", IAnimalRepo.Get());
+        }*/
     }
 }
