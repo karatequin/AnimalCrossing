@@ -119,10 +119,6 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -149,23 +145,9 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
-            },
-            "MvcScaffolding": {
-              "target": "Package",
-              "version": "[1.0.9, )"
             }
           },
           "imports": [
